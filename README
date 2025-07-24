@@ -1,0 +1,51 @@
+# Netflix Movies and TV Shows EDA Project
+
+This project presents an Exploratory Data Analysis (EDA) of Netflix Movies and TV Shows using Python. The aim is to uncover insights such as content type distribution, 
+top genres, country-wise contributions, and year-over-year growth trends.
+
+##Key Questions Explored
+
+1. **Movies vs TV Shows** – which is more common?  
+2. **Top genres** – what content dominates Netflix?  
+3. **Country distribution** – which countries produce the most?  
+4. **Growth over time** – how has Netflix content grown yearly?
+
+## Tools & Libraries Used
+
+- Python (Pandas, NumPy)
+- Seaborn & Matplotlib (for visualizations)
+- Notebook: Kaggle
+- Dataset: Netflix Dataset on Kaggle
+
+
+## Dataset Source
+
+Dataset used: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+It contains:
+- 8807+ rows
+- Columns like Title, Country, Release Year, Genre, Type, Rating, and more
+
+## Insights Summary
+
+- **Movies dominate** over TV Shows on Netflix
+- The **United States** is the top contributor to Netflix content
+- Most content is **TV-MA** and **PG-13** rated
+- A surge in content production occurred between **2015–2020**
+
+## Sample Visualizations
+
+<img width="1023" height="451" alt="image" src="https://github.com/user-attachments/assets/d90055e7-47d4-45d7-9e47-7433fe7a2253" />
+
+
+## How to Run
+
+1. Download the `Netflix EDA.ipynb` notebook
+2. Open it in Kaggle
+3. Run all cells
+4. Enjoy the insights 
+
+##Author
+
+Created with by [Rasshmeet kour Dhaliwal](www.linkedin.com/in/rashmeetkourdhaliwal)
+
